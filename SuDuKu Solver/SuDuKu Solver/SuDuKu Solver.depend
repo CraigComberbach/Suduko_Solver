@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1270580710 source:z:\programs\firmwares\c\suduku solver\suduku solver\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1318960612 source:z:\personal\programs\firmwares\c\suduku solver\suduku solver\main.c
+	<stdio.h>
+	<stdlib.h>
+
